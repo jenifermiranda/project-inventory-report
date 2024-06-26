@@ -45,11 +45,14 @@ Agora você pode chamar o comando `ir` passando seus argumentos:
 
 ___
 
+<strong>Habilidades</strong>
+  <br />
+  
 A partir desse projeto eu desenvolvi as seguintes habilidades:
 
 - Aplicar conceitos de Programação Orientada a Objetos em Python;
 
 - Implementar leitura e escrita de arquivos CSV e JSON em Python;
 
-
+<br><br>
 *Esse app faz parte dos projetos avaliadores da <b>Trybe</b> e alguns arquivos foram fornecidos para que fosse possível a avaliação do meu código.
